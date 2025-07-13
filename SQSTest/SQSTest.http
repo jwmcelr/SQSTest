@@ -1,0 +1,6 @@
+@SQSTest_HostAddress = http://localhost:5162
+
+GET {{SQSTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
